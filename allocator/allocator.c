@@ -2,7 +2,7 @@
 // COMP1521 22T1 --- Assignment 2: `Allocator', a simple sub-allocator        //
 // <https://www.cse.unsw.edu.au/~cs1521/22T1/assignments/ass2/index.html>     //
 //                                                                            //
-// Written by Yikai Qin (z5378608) on 2022/4/20.                              //
+// Written on 2022/4/20.                                                      //
 //                                                                            //
 // 2021-04-06   v1.0    Team COMP1521 <cs1521 at cse.unsw.edu.au>             //
 //                                                                            //
